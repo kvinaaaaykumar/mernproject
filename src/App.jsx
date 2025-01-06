@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 
-const link = "https://sooooooooo.onrender.com"
+const link = "http://localhost:8080"
 
 
 const App = () => {
